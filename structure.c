@@ -1,4 +1,9 @@
-
+/*It contains 
+1.Structure inside structure
+2.Structure inside union
+3.Union inside union
+4.Union inside structure
+*/
 #include<stdio.h>
 int main()
 {
